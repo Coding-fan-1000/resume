@@ -3,7 +3,7 @@
 this is my home page
 
 # about me
-my name is *Josh* I like umamusume
+my name is *Josh* I am a graphic designer
 
 # skills
 Good at creating graphic art
@@ -22,3 +22,5 @@ Humber collage
 </html>
 
 file:///C:/Users/josh2/Desktop/humber%20Year%201/Humber%20semester%202/Blueflow%20foundation/DESN-151-Assignment-4%20website%20design-Joshua-Rosin.pdf
+
+[my linkedin profile()]
