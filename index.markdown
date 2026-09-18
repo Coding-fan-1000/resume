@@ -19,7 +19,7 @@ Humber collage
 
 <img width="1770" height="3509" alt="image" src="https://github.com/user-attachments/assets/8466a160-bcad-4efa-842f-f926bc0b9fe7" />
 
-[portfolio](2026-HUM-Brand-c01- ICE-Lets-Get-Ready-Joshua-Rosin.pdf)
+[portfolio](2026-HUM-Brand-c0-ICE-Lets-Get-Ready-Joshua-Rosin.pdf)
 
 
 
