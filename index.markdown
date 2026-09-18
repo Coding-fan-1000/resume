@@ -23,4 +23,4 @@ Humber collage
 
 file:///C:/Users/josh2/Desktop/humber%20Year%201/Humber%20semester%202/Blueflow%20foundation/DESN-151-Assignment-4%20website%20design-Joshua-Rosin.pdf
 
-[my linkedin profile()]
+[(https://www.markdownguide.org/basic-syntax/)]
